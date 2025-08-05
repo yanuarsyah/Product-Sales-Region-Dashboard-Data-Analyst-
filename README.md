@@ -1,2 +1,3 @@
 # Product Sales Region Dashboard Data Analyst
-## Dashboard Interaction < a href="https://github.com/yanuarsyah/Product-Sales-Region-Dashboard-Data-Analyst-/blob/main/Product%20Sales%20Region%20Dashboard%20(Data%20Analyst).png">View Dashboard</a>
+<img width="2920" height="1502" alt="Product Sales Region Dashboard (Data Analyst)" src="https://github.com/user-attachments/assets/91bdafc9-9c96-4f1c-b644-4bd65f615321" />
+
